@@ -6,10 +6,8 @@ Bu proje, yetişkin (Adult) verisini kullanarak kişilerin yıllık gelir sını
 **Kısa not**: Model ve ön işleme adımları `RANDOM FOREST.ipynb` içinde tanımlıdır. Bu README'de sonuçların gözden geçirilmesi için gerekli bağlantılar ve çalıştırma adımları yer almaktadır.
 
 **Elde edilen skor**
-- Model doğruluk (accuracy): `PUT_YOUR_REPORTED_ACCURACY_HERE`  
+- Model doğruluk (accuracy): 0.862041470874615
   (Not: Lütfen tam skor için notebook'ta en son hücreyi çalıştırın; örneğin şöyle yazdırabilirsiniz: `print(accuracy_score(y_test, y_pred))`)
-- RandomizedSearchCV en iyi skor (cross-val): `PUT_YOUR_RSCV_BEST_SCORE_HERE`  
-  (Notebook içindeki `rscv.best_score_` değerini kullanın.)
 
 **Kaggle bağlantısı (projeye ait notebook veya profil)**
 - Kaggle proje/notebook bağlantınızı buraya ekleyin: https://www.kaggle.com/code/tunahaneler/ir-s-datase  
