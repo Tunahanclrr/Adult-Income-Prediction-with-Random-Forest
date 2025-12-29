@@ -12,12 +12,11 @@ Bu proje, yetişkin (Adult) verisini kullanarak kişilerin yıllık gelir sını
   (Notebook içindeki `rscv.best_score_` değerini kullanın.)
 
 **Kaggle bağlantısı (projeye ait notebook veya profil)**
-- Kaggle proje/notebook bağlantınızı buraya ekleyin: `https://www.kaggle.com/your-username/your-notebook`  
+- Kaggle proje/notebook bağlantınızı buraya ekleyin: https://www.kaggle.com/code/tunahaneler/ir-s-datase  
   (Yer tutucu: kendi Kaggle notebook URL'nizi buraya koyun.)
 
 **Veri seti**
-- Kaggle (Adult Census Income): https://www.kaggle.com/uciml/adult-census-income
-- UCI Machine Learning Repository (Adult): https://archive.ics.uci.edu/ml/datasets/Adult
+- Kaggle (Adult Census Income):https://www.kaggle.com/datasets/lodetomasi1995/income-classification
 
 > Bu repo içindeki `14-income_evaluation.csv` dosyası, yukarıdaki Adult veri setinden türetilmiş veya benzer bir CSV olabilir. Veri kaynağını doğrulamak için dosyayı inceleyin.
 
